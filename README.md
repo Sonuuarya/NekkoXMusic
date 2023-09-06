@@ -46,9 +46,9 @@ A powerful music bot
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
-`vi sample.env`<br>
-Press `I` on the keyboard for editing env<br>
-Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
+  `nano sample.env`<br>
+and then paste your variables in the env file
+when you're done with pasting your vars in the env then Press `Ctrl+A` & `Ctrl+S` to save the env and `Ctrl+x` to get back to the terminal  
 - Rename the env file by :
 `mv sample.env .env`
 - Install tmux to keep running your bot when you close the terminal by :
