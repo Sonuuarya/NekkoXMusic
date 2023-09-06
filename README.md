@@ -51,11 +51,9 @@ and then paste your variables in the env file
 when you're done with pasting your vars in the env then Press `Ctrl+A` & `Ctrl+S` to save the env and `Ctrl+x` to get back to the terminal  
 - Rename the env file by :
 `mv sample.env .env`
-- Install tmux to keep running your bot when you close the terminal by :
-`sudo apt install tmux && tmux`
+now `screen -S Ultroid`
 - Finally run the bot by :
 `bash start`
-- For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
 ━━━━━━━━━━━━━━━━━━━━
 
 <h3 align="center">
