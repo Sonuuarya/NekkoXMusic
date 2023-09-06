@@ -47,11 +47,11 @@ A powerful music bot
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
   `nano sample.env`<br>
-and then paste your variables in the env file
+- and then paste your variables in the env file
 when you're done with pasting your vars in the env then Press `Ctrl+A` & `Ctrl+S` to save the env and `Ctrl+x` to get back to the terminal  
 - Rename the env file by :
 `mv sample.env .env`
-now `screen -S Ultroid`
+- now `screen -S Ultroid`
 - Finally run the bot by :
 `bash start`
 ━━━━━━━━━━━━━━━━━━━━
