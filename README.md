@@ -5,7 +5,7 @@ A powerful music bot
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/5d9c097b00bde8f063239.jpg">
+  <img src="https://graph.org/file/4a48711af2345b23d4513.jpg">
 </p>
 
 <p align="center">
